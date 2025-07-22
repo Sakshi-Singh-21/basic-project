@@ -17,5 +17,7 @@ This is a simple command-line quiz game built in Python. It asks users basic com
 
 1. **Clone the repository**:
    ```bash
-   git clone 
+   git clone https://github.com/Sakshi-Singh-21/basic-project
    cd quiz_game
+2. **Run the python file**:
+   python quiz_game.py
